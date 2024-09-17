@@ -1,8 +1,10 @@
-# elist_analysis
+# Post Pandemic Ecommerce Analysis
 Elist, founded in 2018, is an e-commerce company specializing in the electronics, supplied by manufacturers such as Samsung, Apple, Bose, and LG. Here, I will highlight sales, product, and marketing trends from 2019-2021. 
 
 # Overview
 The total sales for 2019-2021 is $28 million and the average yearly sales for this time period was $7 million. The aov was $260. The highest sales year was in 2020 with $10 million in sales. The lowest year was in 2019 with $4 million in sales. Highest number of sales was $36k in 2021but the highest average order value was $300 in 2020. 
+
+Growth rates: The highest growth rate was in 2020 with sales and order count doubling. The highest month was March 2020 with a 50% increase in sales. The consistently best month was March and the worst was Oct.
 
 <img width="600" alt="Screen Shot 2024-09-14 at 3 34 00 PM" src="https://github.com/user-attachments/assets/b0ba3ad5-c668-4e2c-a187-0b1d8a47a272">
 
